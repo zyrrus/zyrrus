@@ -1,7 +1,5 @@
 # ⚜️ Hello, I'm Zeke! ⚜️
 
-![silly image](https://github.com/zyrrus/zyrrus/images/Wattson.png)
-
 I'm a CS and Math major at LSU, and I have a great time working on silly little projects.  
 
 ---
