@@ -1,18 +1,20 @@
 # ⚜️ Hello, I'm Zeke! ⚜️
 
+![silly image](https://github.com/zyrrus/zyrrus/images/Wattson.png)
+
 I'm a CS and Math major at LSU, and I have a great time working on silly little projects.  
 
-
 ---
-# Here's what I know
 
-## 🌟 I frequently use...
+## Here's what I know
+
+### 🌟 I frequently use...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrrus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## ⭐ I have worked with...
+### ⭐ I have worked with...
 
-- Flask 
+- Flask
 - Python's common data science libraries
 - Spotify API
 - Haskell
@@ -20,7 +22,7 @@ I'm a CS and Math major at LSU, and I have a great time working on silly little 
 - PythonAnywhere
 - Ubuntu
 
-## 🌠 I'm trying to learn...
+### 🌠 I'm trying to learn...
 
 - Databases
 - Docker
