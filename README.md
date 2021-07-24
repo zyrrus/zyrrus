@@ -1,16 +1,29 @@
-### Hi there 👋
+# ⚜️ Hello, I'm Zeke! ⚜️
 
-<!--
-**zyrrus/zyrrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS and Math major at LSU, and I have a great time working on silly little projects.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+# Here's what I know
+
+## 🌟 I frequently use...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrrus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## ⭐ I have worked with...
+
+- Flask 
+- Python's common data science libraries
+- Spotify API
+- Haskell
+- AWS
+- PythonAnywhere
+- Ubuntu
+
+## 🌠 I'm trying to learn...
+
+- Databases
+- Docker
+- React | Angular | Vue
+- Mobile development tools
+- Even more Haskell
