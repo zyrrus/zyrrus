@@ -1,4 +1,4 @@
-# ⚜️ Hello, I'm Zeke! ⚜️
+# Hello, I'm Zeke! 
 
 I'm a CS and Math major at LSU, and I have a great time working on silly little projects.  
 
