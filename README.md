@@ -1,6 +1,6 @@
 # Hello, I'm Zeke! 
 
-I'm a CS and Math major at LSU, and I have a great time working on silly little projects.  
+I'm a CS and Math student, and I have a great time working on silly little projects.  
 
 ---
 
@@ -26,4 +26,3 @@ I'm a CS and Math major at LSU, and I have a great time working on silly little 
 - Docker
 - React | Angular | Vue
 - Mobile development tools
-- Even more Haskell
