@@ -6,4 +6,4 @@ Check out my page: [zyrrus.github.io](https://zyrrus.github.io)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrrus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyrrus&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
