@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a 👨‍💻 software developer with a strong
 
 ## 🌱 What I'm Currently Working On
 
-- [**Violet**](https://github.com/zyrrus/violet) - A programming language that falls somewhere between Python and Rust.
+- [**Flurry**](https://github.com/zyrrus/flurry) - A language learning app focused on comprehensible input over rote memorization.
 - [**Parallel**](https://parallel.zyrrus.dev) - A platform where educators and content creators can collaborate to create educational videos.
 
 ## 💼 Skills
@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a 👨‍💻 software developer with a strong
 
 ## 🛠️ Projects
 
+- 🚧 [**Flurry**](https://github.com/zyrrus/flurry) - ❄️ A language learning app focused on comprehensible input over rote memorization. [Waitlist](https://learnflurry.github.io/waitlist)
 - 🚧 [**Violet**](https://github.com/zyrrus/violet) - 🟣 A programming language that falls somewhere between Python and Rust.
 - 🚧 [**Parallel**](https://github.com/zyrrus/parallel) - 🟰 A platform where educators and content creators can collaborate to create educational videos. [View it live](https://parallel.zyrrus.dev)
-- 🚧 [**Flurry**](https://github.com/learnflurry) - ❄️ A language learning app focused on comprehensible input over rote memorization.
 - ✅ [**Portfolio**](https://github.com/zyrrus/zyrrus-website) - 🌊 A place where I show off projects and occasionally write about interesting things. [View it live](https://zyrrus.dev)
 - ✅ [**DropNote**](https://github.com/zyrrus/dropnote) - 📓 A senior project where we created an app that enables professors to securely distribute lecture materials.
 
